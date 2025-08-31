@@ -1,3 +1,6 @@
 [submodule "libs/nordic-lib-kicad"]
 	path = libs/nordic-lib-kicad
 	url = https://github.com/hlord2000/nordic-lib-kicad
+[submodule "design_rules/pcbway_jlcpcb"]
+	path = design_rules/pcbway_jlcpcb
+	url = https://github.com/labtroll/KiCad-DesignRules
