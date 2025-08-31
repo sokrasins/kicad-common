@@ -1,0 +1,3 @@
+[submodule "libs/nordic-lib-kicad"]
+	path = libs/nordic-lib-kicad
+	url = https://github.com/hlord2000/nordic-lib-kicad
